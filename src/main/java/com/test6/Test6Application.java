@@ -9,7 +9,7 @@ public class Test6Application {
 	public static void main(String[] args) {
 		int x = 100;
 		int y = 200;
-		char x = 'a'
+		char x = 'a';
 		double =10.3;
 		SpringApplication.run(Test6Application.class, args);
 	}
